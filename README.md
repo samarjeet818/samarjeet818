@@ -119,6 +119,14 @@ class Samarjeet:
 
 ---
 
+## Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samarjeet818/samarjeet818/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" />
+</p>
+
+---
+
 <p align="center">
   Happy coding. Feel free to connect and collaborate.
 </p>
