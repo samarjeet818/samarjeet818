@@ -104,7 +104,7 @@ class Samarjeet:
   </a>
 </p>
 
-<p align="left"><i>Available for internships and open-source collaboration.</i></p>
+<p align="center"><i>Available for internships and open-source collaboration.</i></p>
 
 ---
 
