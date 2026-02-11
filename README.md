@@ -90,17 +90,17 @@ class Samarjeet:
 ## Connect With Me
 
 <p align="left">
-  <a href="mailto:010samarjeet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-010samarjeet%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: 010samarjeet@gmail.com" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=010samarjeet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://wa.me/918602937113">
-    <img src="https://img.shields.io/badge/WhatsApp-8602937113-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp: 8602937113" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://www.linkedin.com/in/samarjeet-singh-4b74a9383">
-    <img src="https://img.shields.io/badge/LinkedIn-Samarjeet%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/samarjeet818">
-    <img src="https://img.shields.io/badge/GitHub-samarjeet818-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
