@@ -89,16 +89,16 @@ class Samarjeet:
 
 ## Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=010samarjeet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://wa.me/918602937113">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/samarjeet-singh-4b74a9383">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://github.com/samarjeet818">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
