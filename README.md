@@ -69,7 +69,7 @@ class Samarjeet:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,react,nodejs,express,mongodb,supabase,git,github,vscode,linux&perline=8" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css,git,github,vscode&perline=8" alt="Tech Stack" />
 </p>
 
 ---
