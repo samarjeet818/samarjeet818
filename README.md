@@ -108,18 +108,10 @@ class Samarjeet:
 
 ---
 
-## GitHub Statistics
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samarjeet818&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarjeet818&bg_color=030712&color=38bdf8&line=22c55e&point=f43f5e&area=true&hide_border=true" alt="Contribution Graph" />
+  For real-time and official numbers, see the native contribution section on my GitHub profile.
 </p>
 
 ---
